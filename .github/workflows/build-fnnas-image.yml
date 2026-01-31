@@ -233,7 +233,7 @@ on:
       rootfs_expand:
         description: "Set rootfs expansion size(GiB)"
         required: false
-        default: "16"
+        default: "8"
       fnnas_url:
         description: "Custom fnnas image download url"
         required: false
